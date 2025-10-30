@@ -55,10 +55,9 @@ Ingerir dados brutos, aplicar **qualidade com expectations**, **enriquecer com z
 > **IMPORTANTE**:  
 > - O repositório **já tem os 3 notebooks `.py` prontos**  
 > - **Falta apenas**:  
->   1. Criar os **catalogs/schemas**: `bronze`, `silver`, `gold`  
->   2. Criar o **volume de dados**: `ingestao.default.ingestao_dados`  
->   3. Fazer **upload dos dados**  
->   4. Criar o **`dlt_pipeline.json`** (arquivo abaixo)
+>   1. Executar o catalog para gerar: `bronze`, `silver`, `gold`,`ingestao.default.ingestao_dados`
+>   2. Fazer **upload dos dados**  
+>   3. Rodar o pipeline
 
 ---
 
