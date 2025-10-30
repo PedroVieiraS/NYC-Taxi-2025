@@ -1,4 +1,4 @@
-# NYC Taxi Lakeflow Pipeline (Info4)
+# NYC Taxi Lakeflow Pipeline
 **Teste Engenheiro de Dados – 3 Camadas com Lakeflow (ex-DLT), Expectations, camelCase e SQL Analytics**
 
 ---
