@@ -53,9 +53,9 @@ Ingerir dados brutos, aplicar **qualidade com expectations**, **enriquecer com z
 ## Como Executar (Passo a Passo)
 
 > **IMPORTANTE**:  
-> - O repositório **já tem os 3 notebooks `.py` prontos**  
+> - O repositório **já tem os 3 notebooks `.py` prontos** (`01_bronze_pipeline.py`, `02_silver_pipeline.py`, `03_gold_pipeline.py`)
 > - **Falta apenas**:  
->   1. Executar o catalog para gerar: `bronze`, `silver`, `gold`,`ingestao.default.ingestao_dados`
+>   1. Executar o create_catalog.ipynb para gerar: `bronze`, `silver`, `gold`,`ingestao.default.ingestao_dados`
 >   2. Fazer **upload dos dados**  
 >   3. Rodar o pipeline
 
